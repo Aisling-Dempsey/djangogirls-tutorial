@@ -3,9 +3,13 @@
 ### Example user template
 #secrets
 *secrets.*
+*.pyc
 
 #virtual env
 env
+
+#db
+db.sqlite3
 
 
 # IntelliJ project files
